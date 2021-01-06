@@ -1,0 +1,11 @@
+{
+  "name": "bread-first-search",
+  "version": "1.0.0",
+  "description": "Bread is searched for first. For efficiencys sake we always assume the object being searched has Bread. Since the computer user now has already met their want to find bread, the computer has no reason to explore the tree at all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
