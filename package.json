@@ -4,12 +4,12 @@
   "description": "Bread is searched for first. For efficiencys sake we always assume the object being searched has Bread. Since the computer user now has already met their want to find bread, the computer has no reason to explore the tree at all.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js && exit 0"
   },
   "author": "The Bread Man",
   "license": "ISC",
   "repository": {
-	  "type": "git",
-	  "url": "https://github.com/kinostl/bread-first-search"
+    "type": "git",
+    "url": "https://github.com/kinostl/bread-first-search"
   }
 }
